@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(196, 167, 152);
+}
+
+h1 {
+    text-align: center;
+    margin: 30px;
+    color: rgb(71, 105, 2);
+}
+
+
+img {
+    border: 2px solid yellow;
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.section1 {
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+.div1 {
+    padding: 5px;
+    margin: 5px;
+}
